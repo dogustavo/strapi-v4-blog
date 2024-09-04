@@ -4,7 +4,7 @@ Este projeto é um blog pessoal desenvolvido com Strapi, utilizando MySQL como b
 
 ## Tecnologias Utilizadas
 
-- **Node** na versão **>=18.0.0 <=20.x.x**
+- **Node** na versão **>=18.0.0**
 - **Strapi** na versão 4
 - **MySQL** como banco de dados
 - **Docker** para gerenciamento de contêineres
